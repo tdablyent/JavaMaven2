@@ -11,6 +11,8 @@ public class Syntax {
         int[] input7 = {5};
         int[] input8 = {};
         int[] input9 = null;
+
+        
         System.out.println(findunique(input1));
         System.out.println(findunique(input2));
         System.out.println(findunique(input3));
