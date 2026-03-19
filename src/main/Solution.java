@@ -154,7 +154,6 @@ public class Solution {
         }
         // return true if within k seconds. (include k)
         return result[grid.length - 1][grid[0].length - 1] <= k ? true : false;
-
     }
 
     public static void dpHelper(int i, int j, char[][] grid, int[][] result) {
