@@ -53,7 +53,7 @@ public class Solution {
                         {'.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.'}
                 };
 
-        System.out.println("Test case #4:");
+        System.out.println("Test case 4:");
 
         System.out.println(isWithinKSec(grid4, 26));
         System.out.println(isWithinKSec(grid4, 27));
@@ -74,7 +74,7 @@ public class Solution {
                         {'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '.', '#', '#', '#'},
                         {'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '.', '.', '.', '.'}
                 };
-        System.out.println("Test case #5:");
+        System.out.println("Test case 5:");
         //In this case, length of the path is 39.
         System.out.println(isWithinKSec2(grid5, 38));
         System.out.println(isWithinKSec2(grid5, 39));
